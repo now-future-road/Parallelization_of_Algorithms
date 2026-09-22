@@ -1,0 +1,13 @@
+*.out
+*.exe
+*.o
+*.obj
+
+*.dSYM/
+
+.vscode/
+!.vscode/tasks.json
+!.vscode/launch.json
+
+.DS_Store
+Thumbs.db
